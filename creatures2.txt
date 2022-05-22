@@ -1,0 +1,8 @@
+Nombre,Vida,Ataque,Tipo
+Troll,10,5,0 
+Orco,13,5,0
+Lobo,12,3,0
+Escorpion Gigante,11,4,1 
+Golen de Barro,13,3,1
+Ciclope,15,7,1
+Centauro,10,5,0

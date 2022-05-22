@@ -1,0 +1,27 @@
+Nombre,Vida,Ataque,Tipo
+Troll,10,5,0 
+Orco,13,5,0
+Lobo,12,3,0
+Escorpion Gigante,11,4,1 
+Golen de Barro,13,3,1
+Ciclope,15,7,1
+Centauro,10,5,0 
+Elfo Corrupto,13,5,0
+Ogro,12,3,0
+Gigante de dos cabezas,11,4,1 
+Gargola,13,3,2
+Minotauro,15,7,1
+Demonio de Fuego,10,5,2 
+Demonio Corrupto,13,5,2
+Esqueleto,12,3,0
+Esqueleto,12,3,1
+Babosa Gigante,11,4,0
+Jabali Salvaje,13,3,0
+Ent,15,7,0
+Hada Corrupta,10,5,0 
+Hormiga Gigante,13,5,1
+Araña Lobo,12,3,0
+Tarantula Gigante,11,4,0 
+Bandido del Bosque,13,3,0
+Bandido del Desierto,15,7,1
+Frast,70,11,1
