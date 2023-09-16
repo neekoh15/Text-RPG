@@ -1,4 +1,4 @@
-print("Bosque")
+
 def main_bosque():
     print("main bosque")
     print("Investigar - 1")
